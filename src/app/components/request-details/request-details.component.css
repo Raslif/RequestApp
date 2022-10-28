@@ -1,0 +1,17 @@
+.request__details__container {
+    border    : 1px solid lightgrey;
+    padding   : 10px;
+    margin-top: 50px;
+}
+
+.request__details__top__section {
+    padding: 10px;
+}
+
+.request__details__section {
+    border: 1px solid lightgrey;
+}
+
+.table>tbody>tr>td>button {
+    margin: 3px;
+}
